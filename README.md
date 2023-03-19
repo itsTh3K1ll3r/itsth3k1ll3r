@@ -1,7 +1,7 @@
 ### Heyo! 
 Welcome to my github profile 👋
 - 🌐 I am a web developer
-- 🔭 I’m currently working on stressful projects
+- 🔭 I’m currently working on an arduino 🤔
 - 🌱 I’m a student
 - 🐧 Linux lover
 <!--
