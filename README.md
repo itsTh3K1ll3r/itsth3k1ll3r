@@ -1,8 +1,8 @@
 ### Heyo! 
 Welcome to my github profile 👋
-- 🌐 I am a web developer
+- 💻 I am a computer enthusiast
 - 🔭 I’m currently working on a sophisticated project 🤔
-- 🌱 I’m a student
+- 🌱 I’m a student, learning SDL2 and embedded development
 - 🐧 Linux enjoyer
 <!--
 **itsTh3K1ll3r/itsth3k1ll3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
