@@ -2,7 +2,7 @@
 Welcome to my github profile 👋
 - 💻 I am a computer enthusiast
 - 🔭 I’m currently working on a sophisticated project 🤔
-- 🌱 I’m a student, learning SDL2 and embedded development
+- 🌱 I’m a student, learning about embedded systems
 - 🐧 Linux enjoyer
 <!--
 **itsTh3K1ll3r/itsth3k1ll3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
